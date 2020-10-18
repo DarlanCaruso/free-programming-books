@@ -162,6 +162,7 @@
 
 * [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm)
 * [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/index.html)
+* [Ebook - Guia Definitivo do Angular](http://www.orcacontabilidade.com.br/wp-content/uploads/2018/02/EbookGuiaDefinitivodoAngular.pdf)
 
 
 #### Angular.js
